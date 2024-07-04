@@ -1,12 +1,13 @@
-# Image Capture: Capture an image of a Sudoku puzzle using your webcam.
-# Image Upload: Upload an existing image of a Sudoku puzzle.
-# OCR Text Extraction: Extract the numbers from the Sudoku puzzle image using Tesseract OCR.
-# Sudoku Solving: Automatically solve the Sudoku puzzle using a backtracking algorithm.
-# Editing: Manually edit the Sudoku grid by inserting numbers.
-# Undo/Redo: Undo and redo changes made to the Sudoku grid.
-# Progress Saving/Loading: Save and load the current state of the Sudoku puzzle.
-# Hint: Get a hint for the next empty cell in the Sudoku grid.
-# Theme Switching: Switch between light and dark themes.
+### Features 
+1. Image Capture: Capture an image of a Sudoku puzzle using your webcam.
+2. Image Upload: Upload an existing image of a Sudoku puzzle.
+3. OCR Text Extraction: Extract the numbers from the Sudoku puzzle image using Tesseract OCR.
+4. Sudoku Solving: Automatically solve the Sudoku puzzle using a backtracking algorithm.
+5. Editing: Manually edit the Sudoku grid by inserting numbers.
+6. Undo/Redo: Undo and redo changes made to the Sudoku grid.
+7. Progress Saving/Loading: Save and load the current state of the Sudoku puzzle.
+8. Hint: Get a hint for the next empty cell in the Sudoku grid.
+9. Theme Switching: Switch between light and dark themes.
 
 ## You can install the required packages using pip:
 pip install opencv-python pytesseract pillow tkinter tkinterdnd2
