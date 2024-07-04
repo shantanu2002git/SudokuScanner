@@ -1,4 +1,4 @@
-## Features
+![Screenshot 2024-07-03 091145](https://github.com/shantanu2002git/SudokuScanner/assets/135010107/f0cfa654-e41e-4ba5-b503-305c4753be58)## Features
 Image Capture: Capture an image of a Sudoku puzzle using your webcam.
 Image Upload: Upload an existing image of a Sudoku puzzle.
 OCR Text Extraction: Extract the numbers from the Sudoku puzzle image using Tesseract OCR.
@@ -22,6 +22,32 @@ pip install opencv-python pytesseract pillow tkinter tkinterdnd2
 7. Click the "Save Progress" button to save the current state of the Sudoku puzzle, and the "Load Progress" button to load a previously saved puzzle.
 8. Use the "Hint" button to get a hint for the next empty cell.
 9. Click the "Switch Theme" button to toggle between light and dark themes.[ work on it ... ]
+
+
+
+## SIMPLE INSERT THE NUMBER IN 9*9 MATRIX on click [ insert number Button ]
+
+![Screenshot 2024-07-03 091145](https://github.com/shantanu2002git/SudokuScanner/assets/135010107/98c991ef-d507-477b-ae4a-fe15bf1b85c7)
+
+## FILLED DATA ON 9*9 MATRIX FROM THE IMAGES on click [ Upload Images ]
+
+![Screenshot 2024-07-04 110557](https://github.com/shantanu2002git/SudokuScanner/assets/135010107/1e3ecff6-d4a0-49ae-9ba3-f47023a25c18)
+
+
+![Screenshot 2024-07-04 110318](https://github.com/shantanu2002git/SudokuScanner/assets/135010107/7b8e7ba7-f3f9-4098-9a42-5d4c8e15160b)
+
+## IT GIVE THE SOLVES SUDOKU IN LESS TIME on click [ Submit ] at the Buttom of the page
+
+![Screenshot 2024-07-04 110400](https://github.com/shantanu2002git/SudokuScanner/assets/135010107/e476b763-9102-4e93-8761-ba2128547d9b)
+
+
+## I TAKE THE RANDOM IMAGES on click [ Capture Image ]
+
+![Screenshot 2024-07-04 110522](https://github.com/shantanu2002git/SudokuScanner/assets/135010107/42df7600-d092-4d8d-a924-412256ee5cda)
+
+
+
+
 
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to create a new issue or submit a pull request on the GitHub repository.
